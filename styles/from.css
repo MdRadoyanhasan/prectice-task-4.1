@@ -1,0 +1,18 @@
+
+.sc{
+    display:block;
+    
+}
+img{
+    display: block;
+}
+a{
+    display: block;
+}
+.food{
+    border-top: solid;
+    border-bottom: solid;
+}
+label{
+    display: block;
+}
